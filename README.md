@@ -32,14 +32,14 @@ O objetivo é oferecer uma solução de **acessibilidade e segurança** em situa
 
 1. **Clone o repositório**:
 
-git clone https://github.com/ViniciusBarrosFiap/GS-iot.git)
-cd GS-iot
+- git clone https://github.com/ViniciusBarrosFiap/GS-iot.git)
+- cd GS-iot
 
 
 2. **Crie um ambiente virtual (opcional, mas recomendado)**:
 
-python -m venv .venv
-venv\Scripts\activate # ou source venv/bin/activate no MacOS
+- python -m venv .venv
+- venv\Scripts\activate # ou source venv/bin/activate no MacOS
 
 
 3. **Instale as dependências**:
@@ -53,7 +53,6 @@ Execute o arquivo principal:
 
 
 python main.py
-
 
 A webcam será ativada automaticamente.
 
