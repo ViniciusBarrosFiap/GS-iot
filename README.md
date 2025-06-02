@@ -32,14 +32,14 @@ O objetivo é oferecer uma solução de **acessibilidade e segurança** em situa
 
 1. **Clone o repositório**:
 
-git clone https://github.com/seu-usuario/safehands-mediapipe.git
-cd safehands-mediapipe
+git clone https://github.com/ViniciusBarrosFiap/GS-iot.git)
+cd GS-iot
 
 
 2. **Crie um ambiente virtual (opcional, mas recomendado)**:
 
-python -m venv venv
-source venv/bin/activate  # ou venv\Scripts\activate no Windows
+python -m venv .venv
+venv\Scripts\activate # ou source venv/bin/activate no MacOS
 
 
 3. **Instale as dependências**:
