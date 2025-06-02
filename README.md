@@ -3,8 +3,8 @@
 
 ##  Autor
 
-**RM97824 - Vinicius Oliveira de Barros 
-**RM97937 - Pedro Henrique Fernandes Lô de Barros  
+- **RM97824 - Vinicius Oliveira de Barros**
+- **RM97937 - Pedro Henrique Fernandes Lô de Barros**  
 
 
 Um sistema inteligente criado em Python que utiliza a biblioteca [MediaPipe](https://mediapipe.dev/) para detectar gestos com as mãos e monitorar automaticamente quedas de luz em ambientes fechados. 
