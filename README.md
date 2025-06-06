@@ -73,3 +73,8 @@ Você pode ajustar no código:
 - **Acessibilidade**: para pessoas com deficiência visual, usando gestos simples para pedir ajuda
 - **Casas e escritórios**: monitoramento de queda de energia
 - **Centros de comando**: exibição clara do tempo sem luz e reforço visual de alerta
+
+-- 
+
+##Link do vídeo no drive
+-- https://drive.google.com/file/d/1Yv4JDZCD7w4_ruriRD1mvfG_yq5I0HyT/view?usp=sharing
